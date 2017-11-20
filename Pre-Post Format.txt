@@ -1,0 +1,7 @@
+Pre-Post Format
+
+<div class="prepost">
+
+	<h3><a href="postlink">Title</a></h3>
+	<p>Short text as preview or summery</p>
+</div>
